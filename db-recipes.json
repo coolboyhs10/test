@@ -1,5 +1,5 @@
 [
-    "2": {
+    {
         "id": "2",
         "name": "Baked Shrimp Scampi",
         "source": "Ina Garten: Barefoot Contessa Back to Basics",
@@ -38,7 +38,7 @@
             "main"
         ]
     },
-    "4": {
+    {
         "id": "4",
         "name": "Strawberries Romanov (La Madeleine copycat)",
         "source": "http:\/\/cookeatshare.com\/recipes\/la-madeleine-s-strawberries-romanov-318025",
