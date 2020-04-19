@@ -1,4 +1,4 @@
-{
+[
     "2": {
         "id": "2",
         "name": "Baked Shrimp Scampi",
@@ -16991,78 +16991,6 @@
             "main",
             "fish"
         ]
-    },
-    "id548": {
-        "id": "id548",
-        "name": "Cajun Catfish and Spiced Rice",
-        "source": "https:\/\/www.blueapron.com\/recipes\/cajun-catfish-dirty-rice-with-collard-greens-mushrooms",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 2400,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a small pot, heat 2 tsp oil on medium. Add the **white bottoms of the scallions**, **peppers**, **half the garlic**, **spice blend**. Season with salt and pepper. Cook 30s-1m, until fragrant. Add the **tomato paste** and cook 1-2 minutes. Add the **rice**, salt, and 1 cup of water; heat to boiling on high, then cover and reduce to low, cooking for 18 minutes or until all the water has been absorbed. Fluff with a fork; season to taste.\r\n\r\nWhile the rice cooks, in a large pan, add the **collard greens** and **remaining garlic**. Season, and cook 2-3 minutes, stirring frequently, until slightly wilted. Add 1\/2 cup of water and cook 3-5 minutes, until wilted and the water has cooked off. Add **half the vinegar**, cook 30s-1min, then remove from the pan and keep warm.\r\n\r\nIn the same pan, add the **mushrooms** and cook 3-4 minutes until browned. Add **butter**, salt, and pepper, cook for 30s, until melted. Add the **remaining vinegar** and **half the green scallion tops**; cook another 30s until combined. Remove from the pan and keep warm.\r\n\r\nSeason the **catfish** with salt and pepper on both sides. Cook 4-6 minutes on first side, until browned, then flip and cook 2-4 minutes, until lightly browned and cooked thru.\r\n\r\nDivide rice, greens, and catfish between dishes; top catfish with mushrooms and **remaining scallion greens**.",
-        "ingredients": [
-            "1 tbsp cajun spice blend (smoked paprika, ground yellow mustard, onion powder, garlic powder, dried ground oregano, dried thyme & cayenne pepper)\r",
-            "3 clove garlic, minced and divided\r",
-            "2 scallions, thinly sliced with whites and greens divided\r",
-            "1 oz sweet piquante peppers, thinly sliced\r",
-            "2 tbsp tomato paste\r",
-            "1\/2 cup long grain white rice\r",
-            "<hr>",
-            "1 bunch collard greens\r",
-            "1 tbsp apple cider vinegar, divided\r",
-            "4 oz cremini mushrooms, thinly sliced\r",
-            "2 tbsp butter\r",
-            "2 catfish fillets"
-        ],
-        "tags": [
-            "main",
-            "fish"
-        ]
-    },
-    "id549": {
-        "id": "id549",
-        "name": "Indian-style paneer and creamy tomato curry",
-        "source": "Blue Apron",
-        "preptime": 2100,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. In a small pot, combine the rice, a big pinch of salt, and water. Heat to boiling on high. Once boiling, reduce heat to low. Cover and cook, without stirring, 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff with a fork.\r\n\r\n2. While the rice cooks, in a large pan (nonstick, if you have one), heat a thin layer of oil on medium. Once the oil is hot enough that a piece of cheese sizzles immediately when added, add the diced cheese in an even layer. Cook stirring halfway through (carefully, as the cheese may pop), 4 to 6 minutes, or until lightly browned and crispy. Transfer to a paper towel-lined plate and immediately season with salt. Wipe out the pan.\r\n\r\n3. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced zucchini, season with salt and pepper. Cook, stirring occasionally, 2-3 minutes, or until slightly softened. Add the garlic and ginger and cook, stirring frequently, for about 1 minute, or until fragrant.\r\n\r\n4. Add the tomato paste and chutney to the pan. Cook, stirring frequently, 30 seconds to 1 minute, or until thoroughly combined. Add the chickpeas and water (careful, as the liquid may splatter); season with salt and pepper. Cook stirring occasionally, 5 to 6 minutes, or until slightly thickened.\r\n\r\n5. Add the cream and browned cheese. Cook, stirring frequently, 30 seconds to 1 minute, or until thoroughly combined. Turn off the heat. Season with salt and pepper to taste. Serve the curry over the cooked rice. Enjoy!",
-        "ingredients": [
-            "1\/2 cup long-grain white rice, uncooked\r",
-            "1 cup water\r",
-            "<hr>",
-            "4 oz paneer cheese, medium diced\r",
-            "<hr>",
-            "2 clove garlic, roughly chopped\r",
-            "1 1-inch piece ginger, finely chopped\r",
-            "1 zucchini, halved lengthwise, then thinly slice crosswise\r",
-            "2 tbsp tomato paste\r",
-            "2 tbsp savory tomato chutney\r",
-            "1 15.5oz can chickpeas, drained and rinsed\r",
-            "1\/2 cup water\r",
-            "1\/4 cup heavy cream"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
     }
-}
+]
+    
