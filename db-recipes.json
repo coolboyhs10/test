@@ -1,5 +1,5 @@
 [
-    "2": {
+    {
         "id": "2",
         "name": "Baked Shrimp Scampi",
         "source": "Ina Garten: Barefoot Contessa Back to Basics",
@@ -38,7 +38,7 @@
             "main"
         ]
     },
-    "4": {
+    {
         "id": "4",
         "name": "Strawberries Romanov (La Madeleine copycat)",
         "source": "http:\/\/cookeatshare.com\/recipes\/la-madeleine-s-strawberries-romanov-318025",
@@ -69,7 +69,7 @@
             "untried"
         ]
     },
-    "5": {
+    {
         "id": "5",
         "name": "Tomato Basil Soup (La Madeleine copycat)",
         "source": "http:\/\/cookeatshare.com\/recipes\/la-madeleine-s-tomato-basil-soup-318026",
@@ -102,7 +102,7 @@
             "main"
         ]
     },
-    "7": {
+    {
         "id": "7",
         "name": "John Thorne's Pecan Pie",
         "source": "http:\/\/chowhound.chow.com\/topics\/281175#1495442",
@@ -135,7 +135,7 @@
             "untried"
         ]
     },
-    "8": {
+    {
         "id": "8",
         "name": "Smoked Salmon Ebelskivers",
         "source": "Ebelskivers by Kevin Crafts",
@@ -173,7 +173,7 @@
             "main"
         ]
     },
-    "9": {
+    {
         "id": "9",
         "name": "Godiva Angel Pie",
         "source": "everyrecipe.com",
