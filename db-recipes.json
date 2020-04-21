@@ -1,7 +1,8 @@
 [
   {
     "id": "2",
-    "image": "https://user-images.githubusercontent.com/44211713/79852168-f3d72700-83e3-11ea-952a-9e8b1c8e8c8e.png"
+    "image": "https://user-images.githubusercontent.com/44211713/79852168-f3d72700-83e3-11ea-952a-9e8b1c8e8c8e.png",
+    "mainIngredient":"egg",
     "name": "Baked Shrimp Scampi",
     "source": "Ina Garten: Barefoot Contessa Back to Basics",
     "preptime": 0,
@@ -41,6 +42,8 @@
   },
   {
     "id": "4",
+    "image":"https://user-images.githubusercontent.com/44211713/79859334-77961100-83ee-11ea-860d-229ab49e146b.png",
+    "mainIngredient":"strawberries",
     "name": "Strawberries Romanov (La Madeleine copycat)",
     "source": "http:\/\/cookeatshare.com\/recipes\/la-madeleine-s-strawberries-romanov-318025",
     "preptime": 0,
@@ -72,6 +75,7 @@
   },
   {
     "id": "5",
+    "image":"https://user-images.githubusercontent.com/44211713/79859454-add39080-83ee-11ea-9e2d-6d85dc14db34.png",
     "name": "Tomato Basil Soup (La Madeleine copycat)",
     "source": "http:\/\/cookeatshare.com\/recipes\/la-madeleine-s-tomato-basil-soup-318026",
     "preptime": 0,
@@ -105,7 +109,10 @@
   },
   {
     "id": "7",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "John Thorne's Pecan Pie",
+    "image":"https://user-images.githubusercontent.com/44211713/79860902-1f144300-83f1-11ea-97b6-8d1ec81f7763.png",
     "source": "http:\/\/chowhound.chow.com\/topics\/281175#1495442",
     "preptime": 0,
     "waittime": 0,
@@ -138,6 +145,8 @@
   },
   {
     "id": "8",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Smoked Salmon Ebelskivers",
     "source": "Ebelskivers by Kevin Crafts",
     "preptime": 900,
@@ -176,6 +185,8 @@
   },
   {
     "id": "9",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Godiva Angel Pie",
     "source": "everyrecipe.com",
     "preptime": 0,
@@ -212,6 +223,8 @@
   },
   {
     "id": "10",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Spaetzle",
     "source": "foodnetwork.com",
     "preptime": 0,
@@ -248,6 +261,8 @@
   },
   {
     "id": "11",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Pot Roast Carbonnade",
     "source": "Melissa D'Arabian, FoodNetwork",
     "preptime": 0,
@@ -283,6 +298,8 @@
   },
   {
     "id": "12",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Old Fashion Vegetable Soup",
     "source": "Lee Ann Foulger",
     "preptime": 0,
@@ -326,6 +343,8 @@
   },
   {
     "id": "13",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Onion Pie",
     "source": "Houston Chronicle 1\/18\/2006",
     "preptime": 0,
@@ -359,6 +378,8 @@
   },
   {
     "id": "14",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Godiva Dark Chocolate Cheesecake",
     "source": "Godiva.com, Chef Morgan Wilson",
     "preptime": 0,
@@ -393,6 +414,8 @@
   },
   {
     "id": "15",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Greek Salad",
     "source": "Food Network (two different recipes)",
     "preptime": 0,
@@ -432,6 +455,8 @@
   },
   {
     "id": "16",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Flaky Buttermilk Biscuits",
     "source": "Cooks Illustrated (All-Time Best Recipes 2010)",
     "preptime": 0,
@@ -465,6 +490,8 @@
   },
   {
     "id": "17",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Grilled Portobello Mushrooms Stacked with Fresh Spinach and Shaved Manchego Cheese",
     "source": "http:\/\/www.foodnetwork.com\/recipes\/bobby-flay\/grilled-portobello-mushrooms-stacked-with-fresh-spinach-and-shaved-manchego-cheese-recipe\/index.html",
     "preptime": 0,
@@ -499,6 +526,8 @@
   },
   {
     "id": "18",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Sherry Vinaigrette",
     "source": "http:\/\/www.foodnetwork.com\/recipes\/bobby-flay\/grilled-portobello-mushrooms-stacked-with-fresh-spinach-and-shaved-manchego-cheese-recipe\/index.html",
     "preptime": 0,
@@ -529,6 +558,8 @@
   },
   {
     "id": "19",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Margherita Salad",
     "source": "Adapted from Food Network Magazine (Chicken Parmesan Salad)",
     "preptime": 0,
@@ -572,6 +603,8 @@
   },
   {
     "id": "21",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Mexican Ensalada",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -612,6 +645,8 @@
   },
   {
     "id": "22",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "The Ultimate Green Smoothie",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -646,6 +681,8 @@
   },
   {
     "id": "26",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Tropical Nut Smoothie",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -677,6 +714,8 @@
   },
   {
     "id": "28",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Guacamole",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -712,6 +751,8 @@
   },
   {
     "id": "30",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Sweet Almond Date Smoothie",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -743,6 +784,8 @@
   },
   {
     "id": "31",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "The Ironman Smoothie",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -776,6 +819,8 @@
   },
   {
     "id": "32",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Super Protein Salad",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -814,6 +859,8 @@
   },
   {
     "id": "36",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "The Shake",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -847,6 +894,8 @@
   },
   {
     "id": "40",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Apple Carrot Salad",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -882,6 +931,8 @@
   },
   {
     "id": "42",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Extreme Green Salad",
     "source": "figandcherry.com",
     "preptime": 0,
@@ -921,6 +972,8 @@
   },
   {
     "id": "47",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Blueberry Bliss Smoothie",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -952,6 +1005,8 @@
   },
   {
     "id": "48",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Berry Sauce",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -979,6 +1034,8 @@
   },
   {
     "id": "51",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Popeye's Muscle Salad",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -1018,6 +1075,8 @@
   },
   {
     "id": "54",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Breakfast Mediterranean Scramble",
     "source": "Rachel Atkins",
     "preptime": 0,
@@ -1046,6 +1105,8 @@
   },
   {
     "id": "55",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Best Oatmeal Ever",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -1075,6 +1136,8 @@
   },
   {
     "id": "56",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Lovely Lentils",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -1108,6 +1171,8 @@
   },
   {
     "id": "57",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Sweet Mashed Potatoes",
     "source": "Yuri Elkaim",
     "preptime": 0,
@@ -1140,6 +1205,8 @@
   },
   {
     "id": "61",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Steakhouse steaks",
     "source": "http:\/\/www.foodnetwork.com\/recipes\/ina-garten\/steakhouse-steaks-recipe\/index.html",
     "preptime": 0,
@@ -1172,6 +1239,8 @@
   },
   {
     "id": "62",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Roquefort Cheese Sauce",
     "source": "http:\/\/www.foodnetwork.com\/recipes\/ina-garten\/steakhouse-steaks-recipe\/index.html",
     "preptime": 0,
@@ -1204,6 +1273,8 @@
   },
   {
     "id": "63",
+    "image":"",
+    "mainIngredient":"strawberries",
     "name": "Stove top mac and cheese",
     "source": "Alton Brown",
     "preptime": 0,
